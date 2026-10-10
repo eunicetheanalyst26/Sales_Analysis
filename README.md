@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes transaction data from `Sales Analysis.xlsx` to evaluate overall revenue performance, regional sales distribution, product category trends, and customer purchasing patterns.
 
+![Dashboard Overview](<Screenshot 2026-10-10 041955.png>)
+
+![Dashboard](<Screenshot 2026-10-10 042158.png>)
+
 ## Dataset Structure
 - **File:** `Sales Analysis.xlsx`
 - **Key Fields:** OrderID, Date, Customer, Product, Category, Quantity, Unit Price, Total, Region
